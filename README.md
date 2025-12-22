@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ FEATURES AT A GLANCE
+# ✨ FEATURES AT A GLANCE
 
 ### 🎨 Modern UI/UX
 - Dark theme with blue/purple gradients
