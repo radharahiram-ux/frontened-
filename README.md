@@ -47,7 +47,7 @@
 - Transaction confirmation
 - Toggle Buy/Sell mode
 
-### 🤖 AI Integration
+## 🤖 AI Integration
 - TensorFlow.js models
 - Memory-efficient tensor management
 - Fallback predictions when offline
