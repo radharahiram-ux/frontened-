@@ -39,7 +39,7 @@
 - AI predictions per stock
 - Empty state handling
 
-### 💳 Buy/Sell Trading
+## 💳 Buy/Sell Trading
 - Buy stocks (deducts balance)
 - Sell stocks (adds balance)
 - Input validation
