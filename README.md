@@ -31,7 +31,7 @@
 - Portfolio performance chart
 - Real-time data from Alpha Vantage API
 
-### 💼 Portfolio Management
+## 💼 Portfolio Management
 - View all stock holdings
 - Track average purchase price
 - Calculate total portfolio value
