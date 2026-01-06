@@ -10,7 +10,7 @@
 
 # ✨ FEATURES AT A GLANCE
 
-### 🎨 Modern UI/UX
+## 🎨 Modern UI/UX
 - Dark theme with blue/purple gradients
 - Glass morphism cards and effects
 - Smooth animations and transitions
