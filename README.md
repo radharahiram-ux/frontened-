@@ -228,7 +228,7 @@ password123
 - View portfolio performance chart
 - Data updates in real-time
 
-### **Portfolio**
+## **Portfolio**
 - View your stocks and quantities
 - See average purchase price
 - Check total portfolio value
